@@ -1,0 +1,29 @@
+.note {
+    margin: 0 auto;
+    width: 50%;
+    min-height: 100vh;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+.checkboxen {
+    text-align: left;
+    margin-left: 40%;
+}
+
+textarea {
+    width: 50%;
+    min-height: 200px;
+}
+
+p{
+    margin-top: 0;
+}
+
+h1{
+    margin-top: 0;
+}
